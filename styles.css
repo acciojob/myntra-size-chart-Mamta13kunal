@@ -1,7 +1,17 @@
 
 /* Your CSS Code here. */
 /* Your CSS Code here. */
+
 table, th, td {
   border: 1px solid black;
+
   border-collapse: collapse;
+	padding:20px;
+	margin:20px;
+}
+th{
+		text-align: left;
+}
+td{
+			text-align: right;
 }
